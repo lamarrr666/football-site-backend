@@ -52,4 +52,3 @@ router.get("/stats/:fixtureId", async (req, res) => {
 });
 
 module.exports = router;
-Added routes/matches.js file
